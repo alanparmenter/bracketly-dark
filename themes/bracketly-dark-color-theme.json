@@ -1,0 +1,82 @@
+{
+	"name": "bracketly-dark",
+	"colors": {
+		"editor.background": "#000000",
+		"editor.foreground": "#eeddcc",
+		"activityBar.background": "#0D1629",
+        "window.activeBorder": "#0D1629",
+        "window.inactiveBorder": "#0D1629",
+        "tab.hoverBackground": "#0D1629",
+        "tab.activeBackground": "#000000",
+        "tab.inactiveBackground": "#0D1629",
+        "editorCursor.foreground": "#ddeeff",
+        "tab.activeForeground": "#ddeeff",
+        "titleBar.activeBackground": "#0D1629",
+        "titleBar.inactiveBackground": "#0D1629",
+        "sideBar.background": "#0D1629",
+        "editorWidget.border": "#0D1629",
+        "editorWidget.resizeBorder": "#0D1629",
+        "input.background": "#0D1629",
+	},
+	"tokenColors": [
+		{
+			"name": "Comments",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#888a33"
+			}
+		},
+		{
+			"name": "Storage, Types, Other Keywords",
+			"scope": [
+				"storage",
+				"entity.name.type",
+				"keyword.other"
+			],
+			"settings": {
+				"foreground": "#3d92fe"
+			}
+		},
+		{
+			"name": "Numbers",
+			"scope": [
+				"constant.numeric",
+			],
+			"settings": {
+				"foreground": "#ca6cd0"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": [
+				"string",
+			],
+			"settings": {
+				"foreground": "#f8d31a"
+			}
+		},
+		{
+			"name": "Source",
+			"scope": [
+				"source"
+			],
+			"settings": {
+				"foreground": "#eeddcc"
+			}
+		},
+		{
+			"name": "URL",
+			"scope": [
+				"*url*",
+				"*link*",
+				"*uri*"
+			],
+			"settings": {
+			"fontStyle": "underline"
+			}
+		},
+	]
+}
