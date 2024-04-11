@@ -1,16 +1,9 @@
 # bracketly-dark README
 
-## Working with Markdown
+## Bracketly Dark
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Dark UI and syntax highlighting co-ordinated with Visual Studio Code's multicolour bracket pairs. Strings are yellow, numbers are red, and keywords are blue; or white.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Packaged as a Visual Studio Code extension, which can be debugged and/or installed locally, according to the enclosed quick start guide, also enclosed in this directory.
 
 **Enjoy!**
