@@ -1,5 +1,3 @@
-# bracketly-dark README
-
 ## Bracketly Dark
 
 Dark UI and syntax highlighting co-ordinated with Visual Studio Code's multicolour bracket pairs. Strings are yellow, numbers are red, and keywords are blue; or white.
